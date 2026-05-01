@@ -3,26 +3,26 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Fineslion - Plataforma educativa independiente y gratuita dedicada a la difusión del conocimiento artístico, la historia del arte y las técnicas creativas para todas las personas.">
-    <meta name="keywords" content="educación artística, historia del arte, técnicas artísticas, teoría del color, apreciación del arte, Fineslion">
-    <meta name="author" content="Fineslion">
-    <meta property="og:title" content="Fineslion - Educación Artística Gratuita">
-    <meta property="og:description" content="Descubre, aprende y conecta con el mundo del arte. Plataforma educativa sin ánimo de lucro.">
+    <meta name="description" content="Finan-Art - Plataforma educativa independiente y gratuita dedicada a la difusión del conocimiento artístico, la historia del arte y las técnicas creativas para todas las personas.">
+    <meta name="keywords" content="educación artística, historia del arte, técnicas artísticas, teoría del color, apreciación del arte, Finan-Art">
+    <meta name="author" content="Finan-Art">
+    <meta property="og:title" content="Finan-Art - Educación Artística Gratuita">
+    <meta property="og:description" content="Descubre, aprende y conecta con el mundo del arte. Plataforma educativa independiente.">
     <meta property="og:type" content="website">
-    <title>Fineslion - Educación Artística Gratuita para Todos</title>
+    <title>Finan-Art - Educación Artística Gratuita para Todos</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <header>
         <div class="container">
             <nav aria-label="Navegación principal">
-                <a href="index.html" class="logo" aria-label="Fineslion - Inicio">
+                <a href="index.html" class="logo" aria-label="Finan-Art - Inicio">
                     <div class="logo-art" aria-hidden="true">
                         <span class="logo-circle"></span>
                         <span class="logo-square"></span>
                         <span class="logo-triangle"></span>
                     </div>
-                    Fines<span>lion</span>
+                    Finan<span>-Art</span>
                 </a>
                 <ul class="nav-links">
                     <li><a href="index.html" class="active">Inicio</a></li>
@@ -47,7 +47,7 @@
         </div>
         <div class="container">
             <div class="hero-content">
-                <span class="hero-badge">Proyecto Educativo Independiente · Sin Ánimo de Lucro</span>
+                <span class="hero-badge">Proyecto Educativo Independiente y Gratuito</span>
                 <h1 id="hero-title">El Arte como <span class="highlight">Lenguaje Universal</span></h1>
                 <p>Descubre, aprende y conecta con el mundo del arte. Una plataforma educativa totalmente gratuita dedicada a democratizar el conocimiento artístico y cultural para todas las personas, sin importar su origen ni recursos.</p>
                 <a href="#educacion" class="btn-explore">Explorar Contenido</a>
@@ -72,7 +72,7 @@
                         </svg>
                     </div>
                     <h3>Nuestra Misión</h3>
-                    <p>Fineslion nace de la convicción de que el arte debe ser accesible para todos. Nuestra misión es eliminar las barreras económicas, geográficas y sociales que impiden a las personas acceder a una educación artística de calidad. Creemos firmemente que el arte no es un lujo, sino una necesidad humana fundamental que enriquece nuestras vidas, desarrolla el pensamiento crítico y nos conecta con nuestra humanidad compartida.</p>
+                    <p>Finan-Art nace de la convicción de que el arte debe ser accesible para todos. Nuestra misión es eliminar las barreras económicas, geográficas y sociales que impiden a las personas acceder a una educación artística de calidad. Creemos firmemente que el arte no es un lujo, sino una necesidad humana fundamental que enriquece nuestras vidas, desarrolla el pensamiento crítico y nos conecta con nuestra humanidad compartida.</p>
                 </article>
 
                 <article class="about-card vision">
@@ -98,7 +98,7 @@
                         <li><strong>Independencia:</strong> No tenemos afiliaciones comerciales ni promocionamos marcas.</li>
                         <li><strong>Rigor Educativo:</strong> Contenido verificado y bien documentado.</li>
                         <li><strong>Inclusión:</strong> Diseñado para personas de todas las edades y niveles.</li>
-                        <li><strong>Transparencia:</strong> Operamos con total claridad sobre nuestros objetivos.</li>
+                        <li><strong>Transparencia:</strong> Operamos con total claridad sobre nuestros objetivos educativos.</li>
                     </ul>
                 </article>
 
@@ -109,7 +109,7 @@
                         </svg>
                     </div>
                     <h3>Nuestro Compromiso</h3>
-                    <p>Fineslion opera exclusivamente con fines educativos. No realizamos actividades comerciales, no vendemos productos ni servicios, no tenemos programas de afiliados y no promocionamos marcas comerciales. Nuestro único interés es la difusión del conocimiento artístico para el beneficio de la comunidad global.</p>
+                    <p>Finan-Art opera exclusivamente como recurso educativo. No realizamos actividades comerciales, no vendemos productos ni servicios, no tenemos programas de afiliados y no promocionamos marcas comerciales. Nuestro único interés es la difusión del conocimiento artístico para el beneficio de la comunidad global.</p>
                 </article>
             </div>
         </div>
@@ -377,7 +377,7 @@
         <div class="container">
             <div class="cta-content">
                 <h2 id="cta-title">El conocimiento artístico es un derecho universal</h2>
-                <p>Fineslion es y será siempre gratuito. No vendemos, no promocionamos marcas, no tenemos intereses comerciales. Solo educación artística libre para todos.</p>
+                <p>Finan-Art es y será siempre gratuito. No vendemos, no promocionamos marcas, no tenemos intereses comerciales. Solo educación artística libre para todos.</p>
             </div>
         </div>
     </section>
@@ -393,9 +393,9 @@
                             <span class="logo-square"></span>
                             <span class="logo-triangle"></span>
                         </div>
-                        Fines<span>lion</span>
+                        Finan<span>-Art</span>
                     </div>
-                    <p>Proyecto educativo independiente dedicado a la difusión del conocimiento artístico y cultural. Sin ánimo de lucro, sin afiliaciones comerciales.</p>
+                    <p>Proyecto educativo independiente dedicado a la difusión del conocimiento artístico y cultural. Recurso gratuito, sin afiliaciones comerciales.</p>
                 </div>
                 <div class="footer-section">
                     <h4>Navegación</h4>
@@ -415,7 +415,7 @@
                 </div>
             </div>
             <div class="footer-bottom">
-                <p>&copy; 2026 Fineslion. Proyecto educativo sin ánimo de lucro. Todos los derechos reservados.</p>
+                <p>&copy; 2026 Finan-Art. Proyecto educativo independiente. Todos los derechos reservados.</p>
             </div>
         </div>
     </footer>
